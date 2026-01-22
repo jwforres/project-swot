@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated reports (examples - users generate their own)
+*_swot_report.md
+*_swot_report.pdf
+*_swot_overview.pptx
+*_swot_overview.pdf
+
+# Temporary files
+*.tmp
+*.bak
