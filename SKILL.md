@@ -282,6 +282,8 @@ Based on weighted SWOT, analyze:
    - Is this production-ready for the user's use case?
    - What gaps would need to be addressed?
    - Estimated effort to adopt
+     - **Note**: All effort estimates should assume AI-assisted code development and design tools are available
+     - Consider reduced implementation time but similar learning/integration overhead
 
 2. **Risk Profile**:
    - Top 3 risks of adopting/depending on this project
