@@ -2,6 +2,8 @@
 
 Quick reference for common AI analysis errors and how to prevent them.
 
+**Methodology Attribution:** This AI pitfalls framework was developed by [Jessica Forrester](https://github.com/jwforres) and [Jason Greene](https://github.com/n1hility).
+
 ## Critical Errors to Avoid
 
 ### 1. Outdated Knowledge
